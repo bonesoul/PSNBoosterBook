@@ -29,7 +29,7 @@ Quick start
 
 .. image:: images/getting-started/initial-screen.png
 
-Discovering Servers
+Discovering servers
 ------------------------------------------------
 
 In order to find the fastest download server available to you, ``Playstation Network`` download servers
@@ -37,3 +37,11 @@ should be discovered first which is a trivial task.
 
 Once the main window is open, you can press ``Run`` button to start discovring download servers. Based on
 your settings, ``PSNBooster`` will find a minimum amount configured servers.
+
+Finding the fastest servers
+---------------------------
+
+After discover process is complete, ``PSNBooster`` will move on to speed testing them by;
+
+- Pinging and checking the latency.
+- Speed testing by download a sample file.

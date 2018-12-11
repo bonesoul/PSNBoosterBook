@@ -23,8 +23,14 @@ This screencast will help you get started or you canr ead our guide below.
 Quick start
 -----------
 
-- Download the application from `psnbooster. <https://psnbooster.com/>`_ and install it.
+- Download the application from `https://psnbooster.com. <https://psnbooster.com/>`_ and install it.
 - Run the setup and install the application on your computer.
 - Run the application.
 
+.. image:: images/getting-started/initial-screen.png
 
+Discovering PSN Download Servers
+------------------------------------------------
+
+Once the main window is open, you can press ``Run`` button to start discovring ``Playstation Network`` 
+download servers.

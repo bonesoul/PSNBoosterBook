@@ -29,8 +29,11 @@ Quick start
 
 .. image:: images/getting-started/initial-screen.png
 
-Discovering PSN Download Servers
+Discovering Servers
 ------------------------------------------------
 
-Once the main window is open, you can press ``Run`` button to start discovring ``Playstation Network`` 
-download servers.
+In order to find the fastest download server available to you, ``Playstation Network`` download servers
+should be discovered first which is a trivial task.
+
+Once the main window is open, you can press ``Run`` button to start discovring download servers. Based on
+your settings, ``PSNBooster`` will find a minimum amount configured servers.

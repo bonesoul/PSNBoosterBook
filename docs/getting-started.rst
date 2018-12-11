@@ -17,7 +17,7 @@ Quick start video
 -----------------
 
 This screencast will help you get started or you can
-:ref:`read our guide below <getting-started:Quick start>`.
+:ref:`read our guide below </getting-started:Quick start>`.
 
 Quick start
 -----------

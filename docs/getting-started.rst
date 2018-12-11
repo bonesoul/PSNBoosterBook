@@ -6,7 +6,7 @@ Getting Started
 **PSNBooster** is a powerful proxy & DNS server application for Playstation Network that
 can boost your ``Playstation 4`` devices download speeds by a margin.
 
-Main features of PSNBooster are;
+Main features of **PSNBooster** are;
 
 - Dynamically discovering more than 300+ ``Playstation Network`` download servers.
 - Speed testing discovered servers & selecting the fastest ones.
@@ -36,12 +36,12 @@ In order to find the fastest download server available to you, ``Playstation Net
 should be discovered first which is a trivial task.
 
 Once the main window is open, you can press ``Run`` button to start discovering download servers. Based on
-your settings, ``PSNBooster`` will find a minimum amount of configured servers.
+your settings, **PSNBooster** will find a minimum amount of configured servers.
 
 Finding the fastest servers
 ---------------------------
 
-After discover process is complete, ``PSNBooster`` will move on to speed testing them by;
+After discover process is complete, **PSNBooster** will move on to speed testing them by;
 
 - Pinging and checking the latency.
 - Speed testing by download a sample file.

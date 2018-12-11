@@ -16,8 +16,15 @@ Main features of PSNBooster are;
 Quick start video
 -----------------
 
-This screencast will help you get started or you can
-:ref:`read our guide below </getting-started:Quick start>`.
+This screencast will help you get started or you canr ead our guide below.
+
+``TODO: VIDEO HERE``
 
 Quick start
 -----------
+
+- Download the application from `psnbooster. <https://psnbooster.com/>`_ and install it.
+- Run the setup and install the application on your computer.
+- Run the application.
+
+

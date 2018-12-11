@@ -1,10 +1,10 @@
-The Brain
-=========
+PSN Booster
+===========
 
-**The Brain** is tool for crypto-currency markets aiming to help with users trading activities. It features programmatic, config based and on-the-fly strategies, data and opportunity analyzers.
+**PSN Booster** is the long awaited tool for boosting PSN downloads. It can boost
+download speed by setting up a special proxy & DNS server for your Playstation 4 device.
 
-.. image:: https://image.ibb.co/i1HaJG/The_Brain_2.jpg
-
+.. image:: images/main-window.png
 
 Contents
 ========
@@ -13,9 +13,9 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   about
-   strategies
-   
+   getting-started
+   configuration
+
 Indices and tables
 ==================
 

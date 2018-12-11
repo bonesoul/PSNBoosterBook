@@ -1,4 +1,4 @@
-.. _about:
+.. _getting-started:
 
 Getting Started with PSNBooster
 ===============================

@@ -1,7 +1,7 @@
 .. _getting-started:
 
-Getting Started with PSNBooster
-===============================
+Getting Started
+===============
 
 **PSNBooster** is a powerfull proxy & DNS server application for Playstation Network that
 can boost your ``Playstation 4`` devices download speeds by a margin.

@@ -6,9 +6,6 @@ download speed by setting up a special proxy & DNS server for your Playstation 4
 
 .. image:: images/main-window.png
 
-Contents
-========
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

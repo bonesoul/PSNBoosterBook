@@ -20,7 +20,7 @@ This screencast will help you get started or you can read our guide below.
 
 ``TODO: VIDEO HERE``
 
-Quickstart
+Quick start
 -----------
 
 - Download the application from `https://psnbooster.com. <https://psnbooster.com/>`_ and install it.
